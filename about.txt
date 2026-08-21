@@ -1,2 +1,0 @@
-This is a git Practice Page
-I am Learning git and github pr and conflict Resolutioh
